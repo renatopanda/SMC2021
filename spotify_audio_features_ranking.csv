@@ -1,0 +1,13 @@
+Weight,Number,Name
+0.07299,1,Energy
+0.06713,2,Valence
+0.06394,7,Acousticness
+0.02479,8,Instrumentalness
+0.01583,6,Speechiness
+0.01527,3,Key
+0.01518,4,Loudness
+0.00814,9,Liveness
+0.00761,5,Mode
+0.00721,10,Tempo
+0.00651,11,Time Signature
+0.00409,12,Danceability
